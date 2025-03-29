@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kthese&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/kthese"
-    width="600"
-    height="120"
+    width="772"
+    height="130"
   />
 </a>
 
