@@ -2,7 +2,7 @@
 
 <h3 align="center">A Computer Science student from the Philippines<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Philippines.webp" alt="Flag Philippines" width="30" height="30" /></h3><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" width="40%" height="40%"/>
 
 ### 🚀 Currently Learning
 - Intermediate HTML and CSS
