@@ -20,8 +20,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kthese&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/kthese"
-    width="430"
-    height="170"
+    width="700"
+    height="140"
   />
 </a>
 
