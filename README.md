@@ -32,31 +32,30 @@
     <td align="center" valign="top" width="20%">
       <h3>🌐 Frontend</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=light&perline=3" />
       </a>
     </td>
     <td align="center" valign="top" width="20%">
       <h3>🚀 Backend/App</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,java,kotlin&theme=light" />
+        <img src="https://skillicons.dev/icons?i=php,java,kotlin,py&theme=light&perline=3" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🛠️ Tools & Platforms</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,sublime&theme=light" />
+        <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,sublime,firebase&theme=light&perline=5" />
       </a>
     </td>
     <td align="center" valign="top" width="22%">
       <h3>🎨 Design & Editing</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark&perline=3" />
       </a>
     </td>
   </tr>
 </table>
 
-<br/>
 <br/>
 <p align="center"><ins>𝙇𝙚𝙩 𝙪𝙨 𝙣𝙤𝙩 𝙗𝙚𝙘𝙤𝙢𝙚 𝙬𝙚𝙖𝙧𝙮 𝙞𝙣 𝙙𝙤𝙞𝙣𝙜 𝙜𝙤𝙤𝙙, 𝙛𝙤𝙧 𝙖𝙩 𝙩𝙝𝙚 𝙥𝙧𝙤𝙥𝙚𝙧 𝙩𝙞𝙢𝙚 𝙬𝙚 𝙬𝙞𝙡𝙡 𝙧𝙚𝙖𝙥 𝙖 𝙝𝙖𝙧𝙫𝙚𝙨𝙩 𝙞𝙛 𝙬𝙚 𝙙𝙤 𝙣𝙤𝙩 𝙜𝙞𝙫𝙚 𝙪𝙥.</ins> 
 - ɢᴀʟᴀᴛɪᴀɴꜱ 6:9</p>
