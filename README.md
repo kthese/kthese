@@ -38,13 +38,13 @@
     <td align="center" valign="top" width="20%">
       <h3>🚀 Backend/App</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,java,kotlin,py&theme=light&perline=3" />
+        <img src="https://skillicons.dev/icons?i=php,py,java,kotlin&theme=light&perline=3" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🛠️ Tools & Platforms</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,sublime,firebase&theme=light&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,sublime,idea,firebase&theme=light&perline=5" />
       </a>
     </td>
     <td align="center" valign="top" width="22%">
